@@ -11589,3 +11589,12 @@ body .search-modal .close:hover {
     transform: translateY(0);
   }
 }
+
+[data-component="slideshow"] .slide {
+	display: none;
+  text-align: center;
+}
+
+[data-component="slideshow"] .slide.active {
+	display: block;
+}
