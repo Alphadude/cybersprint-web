@@ -353,7 +353,7 @@ ul {
   background-size: cover;
 }
 .bg23 {
-  background: url(assets/images/bg/konstruk-bg.jpg);
+  background: url(assets/images/new-img/ai-contact.jpeg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6142,6 +6142,12 @@ body .search-modal .close:hover {
 ---------------------------------------*/
 .rs-project.portfolio-image .project-img {
   background-image: url(assets/images/new-img/software.jpg);
+  background-repeat: no-repeat;
+  background-position: center right;
+  background-size: cover;
+}
+.rs-project.portfolio-image .project-imge {
+  background-image: url(assets/images/new-img/service-laptop.jpeg);
   background-repeat: no-repeat;
   background-position: center right;
   background-size: cover;
