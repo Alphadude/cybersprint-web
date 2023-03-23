@@ -2547,7 +2547,7 @@ blockquote p {
 }
 .full-width-header .rs-header .menu-area .logo-area img {
   transition: 0.4s;
-  max-height: 36px;
+  max-height: 50px;
 }
 .full-width-header .rs-header .menu-area .rs-menu-area {
   display: flex;
