@@ -3835,7 +3835,6 @@ body .search-modal .close:hover {
   line-height: 30px;
   font-weight: 400;
   color: #fff;
-  text-transform: capitalize;
   margin-bottom: 32px;
   display: inline-block;
 }
@@ -3874,7 +3873,7 @@ body .search-modal .close:hover {
   background: url(assets/images/new-img/ai-contact.jpeg);
 }
 .rs-breadcrumbs.img2 {
-  background: url(assets/images/breadcrumbs/inr-2.jpg);
+  background: url(assets/images/new-img/ai-contact.jpeg);
 }
 .rs-breadcrumbs.img3 {
   background: url(assets/images/breadcrumbs/inr-3.jpg);
